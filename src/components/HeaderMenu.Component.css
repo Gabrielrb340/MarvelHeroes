@@ -1,0 +1,9 @@
+ .menu-color{
+        background-color: rgb(0 0 0 / 76%);
+}
+.button-color.MuiButton-root{
+        color: white;
+}
+.button-color.MuiButton-root:hover{
+        background-color: black;
+}
